@@ -19,7 +19,11 @@ Book that used in study session is the following.
 - [Refactoring](https://martinfowler.com/books/refactoring.html)
   - by Martin Fowler, with Kent Beck 2018
 
+![](images/refact2.jpg)
+
 勉強会で使用した本はこちらです。
 
 - [リファクタリング](https://www.ohmsha.co.jp/book/9784274224546/)
   - Martin Fowler 著、児玉 公信 訳、友野 晶夫 訳、平澤 章 訳、梅澤 真史 訳
+
+![](images/refactoring.jpg)
