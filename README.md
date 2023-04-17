@@ -1,3 +1,6 @@
+![refactoring-bannar](https://user-images.githubusercontent.com/44424270/232457513-96539966-8437-4a91-b9e8-fc93a27c4d4c.png)
+
+
 # Web page
 
 <a href="https://tatsurou-yajima.github.io/refactoring-in-study-session/" target="_blank">Web page</a>
